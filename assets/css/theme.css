@@ -53,12 +53,12 @@
 :root {
 	/* General */
 	--tt-main-color: #9d2e13; /* Template main color. #9d2e13 */
-	--tt-dark-color: #16171a; /* Template dark color. #16171a */
+	--tt-dark-color: #002BA8; /* Template dark color. #16171a */
 	--tt-light-color: #e9e6de; /* Template light color. #e9e6de */
 
 	--tt-bg-color: #e9e6de; /* Template background color. #e9e6de */
 	--tt-accent-bg-color: #f1efe9; /* Template accent background color (slightly lighter than the background color of the page). #f1efe9 */
-	--tt-text-color: #16171a; /* Template text color. #16171a */
+	--tt-text-color: #5D5E8D; /* Template text color. #16171a */
 	--tt-text-muted-color: #6c6c6c; /* Template text muted color. #6c6c6c */
 	--tt-border-color: #16171a; /* Template borders color. #16171a */
 	--tt-shadow-color: #16171a; /* Template shadows color. #16171a */
